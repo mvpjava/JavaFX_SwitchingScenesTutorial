@@ -8,7 +8,9 @@ The example demonstrated how to switch from the Login Scene to the Main applicat
 
 Simply put, after this tutorial you'll be switching Scenes like a boss!
 
-View the YouTube Tutorial https://youtu.be/RifjriAxbw8
+View the YouTube Tutorial https://youtu.be/RifjriAxbw8  - JavaFX - Switching Scenes Like A Boss! (Part 1)
+
+View the YouTube Tutorial https://youtu.be/liBlofRb824  - JavaFX - Switching Scenes Like A Boss! (Part 2)
 
 ======================================================
 
